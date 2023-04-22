@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6b9c7a2a2fdae1109cef5e492799b69e" label="demo_2" max_length="40" name="x_799995_demo_2_demo_2" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Date" max_length="40" name="date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Day Type" max_length="40" name="day_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Employee" max_length="40" name="employee" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>employee-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>gabod2000</sys_created_by>
+        <sys_created_on>2023-04-22 16:38:31</sys_created_on>
+        <sys_id>434db2aa2fdae1109cef5e492799b60b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>employee-FieldValue</sys_name>
+        <sys_package display_value="Demo_2" source="x_799995_demo_2">1bcb32e62fdae1109cef5e492799b612</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo_2">1bcb32e62fdae1109cef5e492799b612</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_434db2aa2fdae1109cef5e492799b60b</sys_update_name>
+        <sys_updated_by>gabod2000</sys_updated_by>
+        <sys_updated_on>2023-04-22 16:38:31</sys_updated_on>
+        <view_config display_value="data List Screen View Config">0f4d72aa2fdae1109cef5e492799b6db</view_config>
+        <view_template_slot display_value="text_03">ef5ef07841e35010f877183fc9b8be34</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

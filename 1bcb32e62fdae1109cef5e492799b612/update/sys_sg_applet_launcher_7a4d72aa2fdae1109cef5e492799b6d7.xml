@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button/>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>demo_2</name>
+        <required_roles>x_799995_demo_2.admin,x_799995_demo_2.user</required_roles>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>gabod2000</sys_created_by>
+        <sys_created_on>2023-04-22 16:38:30</sys_created_on>
+        <sys_id>7a4d72aa2fdae1109cef5e492799b6d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>demo_2</sys_name>
+        <sys_package display_value="Demo_2" source="x_799995_demo_2">1bcb32e62fdae1109cef5e492799b612</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo_2">1bcb32e62fdae1109cef5e492799b612</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_7a4d72aa2fdae1109cef5e492799b6d7</sys_update_name>
+        <sys_updated_by>gabod2000</sys_updated_by>
+        <sys_updated_on>2023-04-22 16:38:30</sys_updated_on>
+        <title>demo_2</title>
+    </sys_sg_applet_launcher>
+</record_update>

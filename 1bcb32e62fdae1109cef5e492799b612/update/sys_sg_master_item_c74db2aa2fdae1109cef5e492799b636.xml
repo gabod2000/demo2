@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_799995_demo_2_demo_2</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="data Form Screen">034db2aa2fdae1109cef5e492799b633</embedded_screen>
+        <item_view/>
+        <name>data Form Screen Master Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>gabod2000</sys_created_by>
+        <sys_created_on>2023-04-22 16:38:31</sys_created_on>
+        <sys_id>c74db2aa2fdae1109cef5e492799b636</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>data Form Screen Master Item</sys_name>
+        <sys_package display_value="Demo_2" source="x_799995_demo_2">1bcb32e62fdae1109cef5e492799b612</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo_2">1bcb32e62fdae1109cef5e492799b612</sys_scope>
+        <sys_update_name>sys_sg_master_item_c74db2aa2fdae1109cef5e492799b636</sys_update_name>
+        <sys_updated_by>gabod2000</sys_updated_by>
+        <sys_updated_on>2023-04-22 16:38:31</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="data List Screen View Config">0f4d72aa2fdae1109cef5e492799b6db</view_config>
+    </sys_sg_master_item>
+</record_update>

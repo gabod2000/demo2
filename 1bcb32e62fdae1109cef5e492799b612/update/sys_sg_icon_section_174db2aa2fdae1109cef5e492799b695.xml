@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
+    <sys_sg_icon_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applets>434db2aa2fdae1109cef5e492799b632</applets>
+        <card_size/>
+        <column_count/>
+        <custom_height/>
+        <custom_width/>
+        <data_item/>
+        <display_feed_count>true</display_feed_count>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <is_custom_size>false</is_custom_size>
+        <is_hidden_preference_name/>
+        <orientation>vertical</orientation>
+        <required_roles>x_799995_demo_2.admin,x_799995_demo_2.user</required_roles>
+        <row_count/>
+        <sys_class_name>sys_sg_icon_section</sys_class_name>
+        <sys_created_by>gabod2000</sys_created_by>
+        <sys_created_on>2023-04-22 16:38:32</sys_created_on>
+        <sys_id>174db2aa2fdae1109cef5e492799b695</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>demo_2</sys_name>
+        <sys_package display_value="Demo_2" source="x_799995_demo_2">1bcb32e62fdae1109cef5e492799b612</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo_2">1bcb32e62fdae1109cef5e492799b612</sys_scope>
+        <sys_update_name>sys_sg_icon_section_174db2aa2fdae1109cef5e492799b695</sys_update_name>
+        <sys_updated_by>gabod2000</sys_updated_by>
+        <sys_updated_on>2023-04-22 16:38:32</sys_updated_on>
+        <table/>
+        <title>demo_2</title>
+        <visible_condition/>
+        <wide_column_count/>
+    </sys_sg_icon_section>
+</record_update>
